@@ -1,0 +1,1 @@
+export {default as DynamicLinkService, UrlData } from './dynamic-link-service'
